@@ -10,7 +10,7 @@ codecademy Make a Website中文翻譯
 ####Site Structure  
 [1-1 What are HTML and CSS?](https://github.com/cj10243/codecademy-Make-a-Website-translation-zhtw/blob/master/1-1_What_are_HTML_%20and_CSS%3F.md)
 
-[1-2 Anatomy of an HTML Element]
+[1-2 Anatomy of an HTML Element](https://github.com/cj10243/codecademy-Make-a-Website-translation-zhtw/blob/master/1-2_Anatomy_of_an_HTML_Element.md)
 
 [1-3 Add a Heading](https://github.com/cj10243/codecademy-Make-a-Website-translation-zhtw/blob/master/1-3_Add_a_Heading.md)
 
