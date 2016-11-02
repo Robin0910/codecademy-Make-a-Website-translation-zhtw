@@ -7,7 +7,7 @@ codecademy Make a Website中文翻譯
 [cj10243](https://github.com/cj10243)
 
 ##目錄：  
-Site Structure  
+####Site Structure  
 [1-1 What are HTML and CSS?](https://github.com/cj10243/codecademy-Make-a-Website-translation-zhtw/blob/master/1-1_What_are_HTML_%20and_CSS%3F.md)
 
 [1-2 Anatomy of an HTML Element]
@@ -26,9 +26,9 @@ Site Structure
 
 1-9 Create an Unordered List
 
-A Closer Look at CSS
+####A Closer Look at CSS
 
-Boundaries and Space
+####Boundaries and Space
 
-Building with Bootstrap
+####Building with Bootstrap
          
