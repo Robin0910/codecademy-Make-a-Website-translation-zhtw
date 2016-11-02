@@ -4,9 +4,9 @@
 
 再學習了這些課程之後，你將開始建造你自己的網站！
 
-HTML代表超文本標記語言（Htper Text Markup Language)。他使用文字、連結、圖片和其他基本的元素去建造網站的結構。
+* HTML代表超文本標記語言（Htper Text Markup Language)。他使用文字、連結、圖片和其他基本的元素去建造網站的結構。
 
-CSS代表層疊樣式表(Cascading Style Sheets)，他被用來改變ＨＴＭＬ元素的表現形式。
+* CSS代表層疊樣式表(Cascading Style Sheets)，他被用來改變ＨＴＭＬ元素的表現形式。
 
 ##說明
 
