@@ -16,15 +16,15 @@ codecademy Make a Website中文翻譯
 
 [1-4 Add a Paragraph](https://github.com/cj10243/codecademy-Make-a-Website-translation-zhtw/blob/master/1-4_Add_a_Paragraph)
 
-1-5 Anchor Elements
+[1-5 Anchor Elements](https://github.com/cj10243/codecademy-Make-a-Website-translation-zhtw/blob/master/1-5_Anchor_Elements.md)
 
-1-6 A Closer Look
+[1-6 A Closer Look](https://github.com/cj10243/codecademy-Make-a-Website-translation-zhtw/blob/master/1-6_A_Closer_Look.md)
 
-1-7 Adding Images
+[1-7 Adding Images](https://github.com/cj10243/codecademy-Make-a-Website-translation-zhtw/blob/master/1-7_Adding_Images.md)
 
-1-8 Add a Video
+[1-8 Add a Video](https://github.com/cj10243/codecademy-Make-a-Website-translation-zhtw/blob/master/1-8_Add_a_Video.md)
 
-1-9 Create an Unordered List
+[1-9 Create an Unordered List](https://github.com/cj10243/codecademy-Make-a-Website-translation-zhtw/blob/master/1-9_Create_an_Unordered_List.md)
 
 ####A Closer Look at CSS
 
