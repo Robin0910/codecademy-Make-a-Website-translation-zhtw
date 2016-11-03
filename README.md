@@ -14,7 +14,7 @@ codecademy Make a Website中文翻譯
 
 [1-3 Add a Heading](https://github.com/cj10243/codecademy-Make-a-Website-translation-zhtw/blob/master/1-3_Add_a_Heading.md)
 
-1-4 Add a Paragraph
+[1-4 Add a Paragraph](https://github.com/cj10243/codecademy-Make-a-Website-translation-zhtw/blob/master/1-4_Add_a_Paragraph)
 
 1-5 Anchor Elements
 
