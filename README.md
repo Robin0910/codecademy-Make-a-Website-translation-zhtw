@@ -28,6 +28,8 @@ codecademy Make a Website中文翻譯
 
 [1-10 Parent and Child Elements](https://github.com/cj10243/codecademy-Make-a-Website-translation-zhtw/blob/master/1-10_Parent_and_Child_Elements.md)
 
+[1-11 Add a Div](https://github.com/cj10243/codecademy-Make-a-Website-translation-zhtw/blob/master/1-11_Add_a_Div.md)
+
 ####A Closer Look at CSS
 
 ####Boundaries and Space
