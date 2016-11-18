@@ -26,6 +26,8 @@ codecademy Make a Website中文翻譯
 
 [1-9 Create an Unordered List](https://github.com/cj10243/codecademy-Make-a-Website-translation-zhtw/blob/master/1-9_Create_an_Unordered_List.md)
 
+[1-10 Parent and Child Elements](https://github.com/cj10243/codecademy-Make-a-Website-translation-zhtw/blob/master/1-10_Parent_and_Child_Elements.md)
+
 ####A Closer Look at CSS
 
 ####Boundaries and Space
