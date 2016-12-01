@@ -30,6 +30,8 @@ codecademy Make a Website中文翻譯
 
 [1-11 Add a Div](https://github.com/cj10243/codecademy-Make-a-Website-translation-zhtw/blob/master/1-11_Add_a_Div.md)
 
+[1-12 Metadata: The Brains](https://github.com/cj10243/codecademy-Make-a-Website-translation-zhtw/blob/master/1-12_Metadata_the_brains)
+
 ####A Closer Look at CSS
 
 ####Boundaries and Space
