@@ -14,3 +14,20 @@ h1 {
 
 然後`serif`被設為備用字型，
 
+在瀏覽氣未支援第一種字型的情況下
+
+備用字型會被拿來使用
+
+##說明
+
+1. 名為The Mystwood Publishers 網站能被更有設計感的字型改善
+
+在`main.css`中，在`h1`選擇器中
+
+在`{ }`中，添加：
+
+`font-family: Palatino, 'Palatino Linotype', serif;`
+
+執行後注意"Mystwood Publishers Ltd"的改變
+
+現在的字型變成`Palatino`了。
