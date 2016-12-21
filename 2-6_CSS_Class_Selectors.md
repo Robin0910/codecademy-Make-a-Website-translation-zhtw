@@ -1,3 +1,5 @@
+# CSS選擇器
+
 到目前為止，我們只能使用CSS選擇HTML元素的標籤名稱。
 
 然而，我們可以使用class選擇器來定位目標HTML元素。
@@ -35,14 +37,27 @@ CSS樣式套用於`header`的class選擇器，也會自動套用`h2`和`p`。
 
 在`index.html`中，`h2`和`p`包含在具有`class="hero"`的`div`中。
 
-在`main.css`中，添加.hero類選擇器的屬性，將font-family更改為“Trebuchet MS”，使用Helvetica和sans-serif後備。您可以使用以下代碼作為指南：
 
-。英雄 {
-  font-family：'Trebuchet MS'，Helvetica，sans-serif;
-}}
+在`main.css`中，為class選擇器`.hero`添加屬性，
 
-重要信息：在main.css中，使用.hero選擇器可以看到兩個屬性，padding和margin。我們將在單元III，CSS邊界和間距中介紹這些。
+把`font-family`設為`Trebuchet MS`，
 
-單擊運行以在Web瀏覽器中查看您的更改。
+記得加上備用字型`Helvetica`、`sans-serif`。
 
-注意如何帶有類英雄的div的子元素現在出現在Trebuchet MS字體中。
+你可以使用以下的code作為指引：
+
+```
+hero {
+  font-family: 'Trebuchet MS', Helvetica, sans-serif;
+}
+```
+
+重要：在`main.css`的兩個屬性padding(內距)和margin(外距)，
+
+ are seen with the .hero selector.      
+
+我們會在Boundaries and Spacing提到
+
+點擊執行並在瀏覽器觀看結果。
+
+注意有著`class="hero"`的`div`以`Trebuchet MS`字型顯示
