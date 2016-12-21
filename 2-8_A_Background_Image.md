@@ -38,4 +38,6 @@
 
 `background-image: url("https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-2/bg.jpg");`
 
+然後記得圖片的URL包含`""`。
 
+點擊執行並在瀏覽器中注意背景圖片被賦值給`.hero`的div。
