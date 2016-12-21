@@ -19,7 +19,7 @@ CSS樣式套用於`header`的class選擇器，也會自動套用`h2`和`p`。
 
 再次複習[父元素和子元素](https://github.com/cj10243/codecademy-Make-a-Website-translation-zhtw/blob/master/1-10_Parent_and_Child_Elements.md)。
 
-在CSS中，class選擇器可以以`.`來識別。後跟類名，
+在CSS中，class選擇器的語法為`.`，其後加上class名稱，
 
 如下所示：
 
@@ -32,6 +32,8 @@ CSS樣式套用於`header`的class選擇器，也會自動套用`h2`和`p`。
 這段code結果讓帶有`class="header"`且為div的子元素，將具有`#ffffff`（白色）的字體顏色。
 
 在下面，我們將使用CSS class選擇器來一次為多個HTML元素設置樣式。
+
+## 說明
 
 1. 網站時常使用不只一個字型
 
