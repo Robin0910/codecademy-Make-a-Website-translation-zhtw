@@ -1,0 +1,19 @@
+# 文字大小
+
+文字的大小影響了使用者的上網體驗
+
+屬性`font-size`設定了HTML元素的文字大小。
+
+```
+h1 {
+  font-size: 60px; 
+}
+```
+
+在上面的CSS中，
+
+`font-size`設值為`60px`。
+
+而CSS的大小可以以pixels(px)，rems，或em表示。
+
+1. F
