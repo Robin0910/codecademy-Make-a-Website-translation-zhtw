@@ -29,3 +29,36 @@
   
 ## 說明
 
+1. 在[7.font-siz]("https://github.com/cj10243/codecademy-Make-a-Website-translation-zhtw/blob/master/2-7_font-size.md")中，
+
+  我們放大了`p`的`font-size`。
+  
+  我們卻又無意增加了網頁底部`© 2016 Mystwood Publisher`的大小
+  
+  我們可以屬用id來修正這個bug。
+  
+  在`index.html`中，
+  
+  找到上述提及的`p`，
+  
+  把id設為"footer":
+  
+  `<p id="footer">&copy; Mystwood Publishers Limited</p>`
+  
+  點及執行繼續。
+  
+2. 在`main.css`中，加上id選擇器。
+
+  使用`#footer`作為id選擇器。
+  
+  ```
+  #footer {
+  }
+  ```
+  點擊執行繼續。
+  
+3. 設定`#footer`的`font-size`為`0.75rem`。
+
+  點擊執行觀看瀏覽器的變化：
+  
+  "footer"段落現在被調為`0.75rem`。
