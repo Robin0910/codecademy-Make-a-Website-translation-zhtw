@@ -34,6 +34,24 @@
 
 ####A Closer Look at CSS
 
+[2-1 Why use CSS](https://github.com/cj10243/codecademy-Make-a-Website-translation-zhtw/blob/master/2-1_Why_use_CSS%3F.md)
+
+[2-2 Link to a Stylesheet](https://github.com/cj10243/codecademy-Make-a-Website-translation-zhtw/blob/master/2-2_Link_to_a_Stylesheet.md)
+
+[2-3 Anotomy of a CSS](https://github.com/cj10243/codecademy-Make-a-Website-translation-zhtw/blob/master/2-3_Anotomy_of_a_CSS.md)
+
+[2-4 font-family](https://github.com/cj10243/codecademy-Make-a-Website-translation-zhtw/blob/master/2-4_font-family.md)
+
+[2-5color](https://github.com/cj10243/codecademy-Make-a-Website-translation-zhtw/blob/master/2-5_color.md)
+
+[2-6CSS Class Selectors](https://github.com/cj10243/codecademy-Make-a-Website-translation-zhtw/blob/master/2-6_CSS_Class_Selectors.md)
+
+[2-7 font-size](https://github.com/cj10243/codecademy-Make-a-Website-translation-zhtw/blob/master/2-7_font-size.md)
+
+[2-8 A Background Image](https://github.com/cj10243/codecademy-Make-a-Website-translation-zhtw/blob/master/2-8_A_Background_Image.md)
+
+[2-9 CSS id Selectors](https://github.com/cj10243/codecademy-Make-a-Website-translation-zhtw/blob/master/2-9_CSS_id_Selectors.md)
+
 ####Boundaries and Space
 
 ####Building with Bootstrap
